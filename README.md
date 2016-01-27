@@ -1,5 +1,7 @@
+
 <img alt="naxsi logo" src="https://www.nbs-system.com/wp-content/uploads/nbs-logo-naxsi1.png" align="center"/>   
 
+<h1>Showing Changes</h1>
 
 <a href="https://scan.coverity.com/projects/1883">
   <img alt="Coverity Scan Build Status"
@@ -20,7 +22,7 @@
 
 ## What is Naxsi?
 
-NAXSI means [Nginx]( http://nginx.org/ ) Anti [XSS]( https://www.owasp.org/index.php/Cross-site_Scripting_%28XSS%29 ) & [SQL Injection]( https://www.owasp.org/index.php/SQL_injection ). 
+NAXSI means [Nginx]( http://nginx.org/ ) Anti [XSS]( https://www.owasp.org/index.php/Cross-site_Scripting_%28XSS%29 ) & [SQL Injection]( https://www.owasp.org/index.php/SQL_injection ).
 
 Technically, it is a third party nginx module, available as a package for
 many UNIX-like platforms. This module, by default, reads a small subset of
