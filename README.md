@@ -1,8 +1,6 @@
 
 <img alt="naxsi logo" src="https://www.nbs-system.com/wp-content/uploads/nbs-logo-naxsi1.png" align="center"/>   
 
-<h1>Showing Changes</h1>
-
 <a href="https://scan.coverity.com/projects/1883">
   <img alt="Coverity Scan Build Status"
        src="https://scan.coverity.com/projects/1883/badge.svg"/>
